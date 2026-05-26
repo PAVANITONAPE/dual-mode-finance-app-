@@ -1,0 +1,10 @@
+flask
+flask-cors
+werkzeug
+numpy
+scikit-learn
+pillow
+easyocr
+opencv-python-headless
+torch
+torchvision
